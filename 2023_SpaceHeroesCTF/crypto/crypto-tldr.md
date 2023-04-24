@@ -1,7 +1,5 @@
 # Crypto
 
-(to the CTF team, please balance the categories in your next CTF. the pwn category is almost deserted, but the crypto is awfully easy (at least for 4/7 of them))
-
 ## Bynary Encoding (250- pts)
 
 > Starfleet has received a transmission from Bynaus. However, the message apears to be blank. Is there some kind of hidden message here?
