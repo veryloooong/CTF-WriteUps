@@ -10,4 +10,4 @@ Mostly forensics and cryptography, with some binary attacks. Kinda noob tbh
 | ---- | ----------- | ------- | ---- |
 | 2023 | Space Heroes CTF | 65 | im_dragon |
 | 2023 | TAMUctf | 89 | im_dragon |
-
+| 2023 | San Diego CTF | 108 | im_dragon |
