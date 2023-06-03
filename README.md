@@ -2,7 +2,7 @@
 
 Writeups for CTFs I have participated in (and have done in archives)
 
-Mostly forensics and cryptography, with some binary attacks. Kinda noob tbh
+Mostly forensics and cryptography. Currently a beginner
 
 ## CTFs history
 
