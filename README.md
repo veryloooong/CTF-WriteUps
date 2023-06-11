@@ -11,3 +11,4 @@ Mostly forensics and cryptography. Currently a beginner
 | 2023 | Space Heroes CTF | 65 | im_dragon |
 | 2023 | TAMUctf | 89 | im_dragon |
 | 2023 | San Diego CTF | 108 | im_dragon |
+| 2023 | n00bz CTF | 81 | im_dragon |
