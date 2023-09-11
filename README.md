@@ -6,9 +6,10 @@ Mostly forensics and cryptography. Currently a beginner
 
 ## CTFs history
 
-| Year | Competition | Ranking | Team |
-| ---- | ----------- | ------- | ---- |
-| 2023 | Space Heroes CTF | 65 | im_dragon |
-| 2023 | TAMUctf | 89 | im_dragon |
-| 2023 | San Diego CTF | 108 | im_dragon |
-| 2023 | n00bz CTF | 81 | im_dragon |
+| Year | Competition      | Ranking | Team      |
+| ---- | ---------------- | ------- | --------- |
+| 2023 | Space Heroes CTF | 65      | im_dragon |
+| 2023 | TAMUctf          | 89      | im_dragon |
+| 2023 | San Diego CTF    | 108     | im_dragon |
+| 2023 | n00bz CTF        | 81      | im_dragon |
+| 2023 | Patroit CTF      | 46      | im_dragon |
