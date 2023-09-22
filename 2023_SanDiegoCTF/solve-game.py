@@ -39,7 +39,5 @@ def solve():
 
 if __name__ == "__main__":
     solve()
-    for i in range(0, 1): 
-        continue
 
 # sdctf{n07_V3rY_pS3uD0R4nD0m_a6d137}
